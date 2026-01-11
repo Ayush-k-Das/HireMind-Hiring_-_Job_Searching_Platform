@@ -142,7 +142,7 @@ http://127.0.0.1:5000/
 Example:
 
 ```md
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/demo.gif)
 ```
 
 ---
