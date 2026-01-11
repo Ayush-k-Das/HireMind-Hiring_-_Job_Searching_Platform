@@ -5,7 +5,8 @@ A **role-based hiring website** built using **Flask** and **MySQL**, enabling cl
 This project demonstrates **end-to-end full-stack web development**, including authentication, role management, relational database design, and CRUD workflows.
 
 ---
-
+![Demo](screenshots/demo.gif)
+---
 ## 🔑 Features
 
 ### 👤 User Roles
@@ -134,17 +135,6 @@ Access the application at:
 ```
 http://127.0.0.1:5000/
 ```
-
----
-
-## 📸 Screenshots
-
-Example:
-
-```md
-![Home Page](screenshots/demo.gif)
-```
-
 ---
 
 ## ⚠️ Security Notes
